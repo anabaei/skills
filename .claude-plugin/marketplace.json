@@ -1,15 +1,15 @@
 {
-  "name": "mattpocock",
+  "name": "anabaei",
   "owner": {
-    "name": "Matt Pocock",
-    "url": "https://www.aihero.dev"
+    "name": "Amir Nabaei",
+    "url": "https://github.com/anabaei"
   },
-  "description": "Matt Pocock's skills for real engineering, as an installable Claude Code plugin.",
+  "description": "Amir's fork of Matt Pocock's skills for real engineering, as an installable Claude Code plugin. Based on mattpocock/skills (MIT).",
   "plugins": [
     {
-      "name": "mattpocock-skills",
+      "name": "anabaei-skills",
       "source": "./",
-      "description": "Matt Pocock's agent skills for real engineering (grilling, spec/ticket flows, TDD, code review, domain modelling and more).",
+      "description": "Fork of Matt Pocock's agent skills for real engineering (grilling, spec/ticket flows, TDD, code review, domain modelling and more).",
       "category": "engineering",
       "keywords": [
         "engineering",
